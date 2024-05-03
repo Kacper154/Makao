@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658706610 source:c:\users\kacper\desktop\pacjent\projekt_podejscie2\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
